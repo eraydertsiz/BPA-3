@@ -1,5 +1,8 @@
 # BPA Assignment 3
 
+## Recording
+ - You can find the recording in the root folder of this repo named "recording.mp4"
+
 ## How to run it?
  - The project will run only on Windows machines.
  - Download the repo and open it with UiPath.
@@ -9,6 +12,6 @@
 ## Notes
  - The project gets customers data from customers.csv file. If you want to receive mails illustrated in the video, you should modify and add new row in this file.
 
- ## Important Variables
-  - **customerId:** The id of the customer which will be used in the automation. This integer type of variable should exist in customers.csv
-  - **restaurantId:** The id of the restaurant which will be used in the automation. This integer type of variable should exist in restaurants.csv
+## Important Variables
+ - **customerId:** The id of the customer which will be used in the automation. This integer type of variable should exist in customers.csv
+ - **restaurantId:** The id of the restaurant which will be used in the automation. This integer type of variable should exist in restaurants.csv
