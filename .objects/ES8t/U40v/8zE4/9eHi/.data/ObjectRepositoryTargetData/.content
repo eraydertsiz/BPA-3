@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="d1rQAM9xZU6t-HlXeIJPVg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="courierapi.solidet.com" CVScreenId="ed0f716f-630e-41f4-9494-fb660be98304" CvElementArea="661, 632, 615, 72" CvType="InputBox" DesignTimeRectangle="660, 631, 618, 73" DesignTimeScaleFactor="1.25" ElementType="InputBox" Guid="853a5aed-08cb-4ced-a7db-9b3d504cd99b" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Courier Tracking System' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ed0f716f-630e-41f4-9494-fb660be98304" CvTextArea="680, 657, 100, 19" CvTextArgument="Courier ID" CvType="Text" DesignTimeRectangle="680, 657, 100, 18" ElementType="Text" Guid="8258ef48-89a1-4ca6-848d-9fac49c7ea4f" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a1acd6e2d55eba06916045366b2555ee.png" xmlns="">0uSJvo8FvQE-X3UXNiBFKLA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

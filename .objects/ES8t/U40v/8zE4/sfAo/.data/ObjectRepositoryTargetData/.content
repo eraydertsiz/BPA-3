@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3dT7MLs-lUOQqODwWtjqLA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="courierapi.solidet.com" CVScreenId="29cc0da8-5dd5-493b-bcd3-61d8402d8223" CvElementArea="661, 721, 616, 65" CvTextArea="909, 741, 118, 21" CvTextArgument="Track Now" CvType="Button" DesignTimeRectangle="664, 724, 610, 60" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='track-button' tag='BUTTON' type='submit' class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary MuiButton-fullWidth css-1ki8vhi' aaname='Track Now' check:innerText='Track Now' /&gt;" Guid="33d6363e-8e82-41f0-9211-ab779a672182" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Courier Tracking System' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bb87c7d295b3818bf84740b4fb0274fb.png" xmlns="">07_PccaR_4024uIpnUZFvPA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

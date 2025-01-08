@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="msgWeUFJmU-bhhtL9_FQiQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="courierapi.solidet.com/tracking/503e39b1-11ac-48db-87c4-b6d93e278eef" DesignTimeRectangle="270, 296, 1380, 625" DesignTimeScaleFactor="1.25" FuzzySelectorArgument="&lt;webctrl parentid='root' tabindex='0' tag='DIV' type='' class='leaflet-container leaflet-touch leaflet-retina leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom' aaname='' check:innerText='+&amp;#xA;−&amp;#xA; Leaflet | © OpenStreetMap contributors' /&gt;" Guid="8b6a71ad-1a28-4d0f-a495-b0061807ccbe" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Courier Tracking System' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bce3a3fe5b425d06353f423afc36480c.png" xmlns="">0dY9aadqx006QRA2Boh1GeA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TakeScreenshot</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Courier ID",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "9eHi_EWOcUekRVwaNZPbQA",
+  "Reference": "2Pd2iWIYw0SEnnC9GWEgBQ/9eHi_EWOcUekRVwaNZPbQA",
+  "ParentRef": "2Pd2iWIYw0SEnnC9GWEgBQ/8zE4cS1dSkyN2GnjYtugBQ",
+  "Created": "2025-01-07T23:56:14.4800869Z",
+  "Updated": "2025-01-07T23:56:14.4800869Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="r7N5W-gqHEGUGt0agVjTRA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/maps/@52.5369344,13.4119424,11z" CVScreenId="c645a90c-7b70-455c-ad09-cf61e83f659c" CvTextArea="152, 192, 190, 18" CvTextArgument="In Google Maps suchen" CvType="Text" DesignTimeRectangle="124, 172, 470, 60" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='searchbox' tag='DIV' type='' class='nhb85d xoLGzf Hk4XGb sbox-focus FkJ4Sc OAaR7b ' aaname='' /&gt;" Guid="7538b66e-d71c-4ae2-8e8e-6513e47e43cc" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Google Maps' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d2881580bd94c36de0f5f55ee57b75fc.png" xmlns="">0hbp2vjp6QU-8vKKYKLck7Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

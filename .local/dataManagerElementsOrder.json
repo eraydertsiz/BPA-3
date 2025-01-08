@@ -1,0 +1,36 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "customersData&Sequence_2",
+        "restaurantsData&Sequence_2",
+        "customerId&Sequence_2",
+        "restaurantId&Sequence_2",
+        "orderTrackingId&Sequence_2",
+        "customerAddress&Sequence_2",
+        "restaurantAddress&Sequence_2",
+        "trackOrderCreationRawResponse&Sequence_2",
+        "trackOrderCreationJsonResponse&Sequence_2",
+        "estimatedTimeInMinutes&Sequence_2",
+        "responseStatus&Sequence_2",
+        "customerEmail&Sequence_2",
+        "httpDebug&Sequence_2",
+        "orderStatusText&Sequence_3",
+        "mailRequestResponse&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

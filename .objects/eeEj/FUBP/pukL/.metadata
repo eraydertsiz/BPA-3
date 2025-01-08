@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Google Maps",
+  "Type": "Screen",
+  "Id": "pukLtO0orUaSfY9GzJruOQ",
+  "Reference": "2Pd2iWIYw0SEnnC9GWEgBQ/pukLtO0orUaSfY9GzJruOQ",
+  "ParentRef": "2Pd2iWIYw0SEnnC9GWEgBQ/FUBPuwTlPEGH2okL9xdT3Q",
+  "Created": "2025-01-07T11:50:55.3056543Z",
+  "Updated": "2025-01-07T11:50:55.3056543Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

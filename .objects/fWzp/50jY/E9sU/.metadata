@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Gelen Kutusu (6.372) - edertsiz1@gmail",
+  "Type": "Screen",
+  "Id": "E9sURZnbmEenPV8Cj7hLfg",
+  "Reference": "2Pd2iWIYw0SEnnC9GWEgBQ/E9sURZnbmEenPV8Cj7hLfg",
+  "ParentRef": "2Pd2iWIYw0SEnnC9GWEgBQ/50jYGjaEvkumaZjNyIEoNw",
+  "Created": "2025-01-07T11:28:22.9496423Z",
+  "Updated": "2025-01-07T11:28:22.9496423Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Courier Tracking System",
+  "Type": "App",
+  "Id": "ES8tJtGZ5k2TmnK8uGsZKA",
+  "Reference": "2Pd2iWIYw0SEnnC9GWEgBQ/ES8tJtGZ5k2TmnK8uGsZKA",
+  "Created": "2025-01-07T23:25:06.0095134Z",
+  "Updated": "2025-01-07T23:25:06.0095134Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

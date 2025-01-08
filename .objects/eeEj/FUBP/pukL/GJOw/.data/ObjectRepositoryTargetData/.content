@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BMIBEbCxe0KRHRMp4P0yPQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/maps/@52.5369344,13.4119424,11z" DesignTimeRectangle="124, 172, 470, 60" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='searchbox' tag='DIV' /&gt;" Guid="f84977ba-da57-4713-b45b-35dc287d523e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Google Maps' /&gt;" SearchSteps="Selector" Version="V4">
+      <imageRef attrName="InformativeScreenshot" originalValue="4766bf8222d5c3522d08d93422d3b334.png" xmlns="">07Qua6vELmkm2LEbhP6h7UQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">KeyboardTrigger</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

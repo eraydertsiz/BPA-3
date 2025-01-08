@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hOQFKgHzV0qmPh_uFk17YA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="courierapi.solidet.com" CVScreenId="ed0f716f-630e-41f4-9494-fb660be98304" CvElementArea="661, 632, 615, 72" CvType="InputBox" DesignTimeRectangle="664, 633, 610, 70" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='courier-id-input' tag='INPUT' type='text' class='MuiInputBase-input MuiOutlinedInput-input css-1x5jdmq' aaname='Courier ID' /&gt;" Guid="5d3bc64b-8dad-4dd5-99b0-5d896c623282" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Courier Tracking System' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ed0f716f-630e-41f4-9494-fb660be98304" CvElementArea="661, 632, 615, 72" CvType="InputBox" DesignTimeRectangle="682, 653, 97, 29" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='courier-id-input-label' tag='LABEL' type='' class='MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-sizeMedium MuiInputLabel-outlined MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-sizeMedium MuiInputLabel-outlined css-um5zln' aaname='Courier ID' check:innerText='Courier ID' /&gt;" Guid="ec85a677-6840-4016-9ccf-3c5bcf376049" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e7852fa3f3fcf98216bd25535e3b91a9.png" xmlns="">0NLq9-MPSk0Wf_yOvoqcDfQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rbIDhZNZW02Pu74NlssyDQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="courierapi.solidet.com/tracking/503e39b1-11ac-48db-87c4-b6d93e278eef" CVScreenId="9574ea07-f9ef-4162-baee-e8309eeed05a" CvTextArea="967, 675, 111, 23" CvType="AnyWordGroup" DesignTimeRectangle="970, 670, 680, 30" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='P' class='MuiTypography-root MuiTypography-body1 css-1wce7pt' /&gt;" Guid="e55564b0-79d8-4c87-8cb1-c66d1d23f6d0" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Courier Tracking System' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9574ea07-f9ef-4162-baee-e8309eeed05a" CvTextArea="967, 646, 65, 17" CvTextArgument="Status" CvType="Text" DesignTimeRectangle="970, 640, 680, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='P' class='MuiTypography-root MuiTypography-body1 css-g9yxon' aaname='Status' check:innerText='Status' /&gt;" Guid="ef5f91d4-07fa-454a-adcb-cf8c5246bb54" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a0965620853ff91b2eac6e9a97e28b40.png" xmlns="">0kktao1JhF0qlJm0e9LgrzA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

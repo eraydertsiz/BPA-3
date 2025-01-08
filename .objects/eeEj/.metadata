@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Google Maps",
+  "Type": "App",
+  "Id": "eeEjNOFunEmXBYt8rpL3-A",
+  "Reference": "2Pd2iWIYw0SEnnC9GWEgBQ/eeEjNOFunEmXBYt8rpL3-A",
+  "Created": "2025-01-07T11:50:55.2614308Z",
+  "Updated": "2025-01-07T11:50:55.2614308Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

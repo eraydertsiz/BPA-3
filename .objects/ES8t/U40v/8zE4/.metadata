@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Courier Tracking System",
+  "Type": "Screen",
+  "Id": "8zE4cS1dSkyN2GnjYtugBQ",
+  "Reference": "2Pd2iWIYw0SEnnC9GWEgBQ/8zE4cS1dSkyN2GnjYtugBQ",
+  "ParentRef": "2Pd2iWIYw0SEnnC9GWEgBQ/U40vgyQRPkWog-eEsaXUpA",
+  "Created": "2025-01-07T23:25:06.0656188Z",
+  "Updated": "2025-01-07T23:25:06.0656188Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

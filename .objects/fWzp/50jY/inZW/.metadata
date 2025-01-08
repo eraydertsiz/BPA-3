@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Chrome Google Haritalar - Google Chrome",
+  "Type": "Screen",
+  "Id": "inZWV2czrU-r-qa0ixtvDQ",
+  "Reference": "2Pd2iWIYw0SEnnC9GWEgBQ/inZWV2czrU-r-qa0ixtvDQ",
+  "ParentRef": "2Pd2iWIYw0SEnnC9GWEgBQ/50jYGjaEvkumaZjNyIEoNw",
+  "Created": "2025-01-07T11:31:42.7070729Z",
+  "Updated": "2025-01-07T11:42:34.6186744Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
